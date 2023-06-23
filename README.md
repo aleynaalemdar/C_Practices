@@ -1,2 +1,3 @@
 # C_Practices
-:computer: You can find my practices with C language. 
+
+:computer: Welcome to my C_Practices repository! Here you will find a collection of my exercises in the C programming language.
